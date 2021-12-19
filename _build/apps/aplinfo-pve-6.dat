@@ -1,0 +1,65 @@
+
+Package: deepin
+Version: 20200823
+Type: lxc
+OS: debian
+Section: desktop
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: lxcdeepin.tar.xz
+md5sum: 
+sha512sum: 
+Infopage: https://linuxcontainers.org
+Description: LXC default image for deepin
+
+Package: anbox
+Version: 20200823
+Type: lxc
+OS: debian
+Section: desktop
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: lxcanbox.tar.xz
+md5sum: 
+sha512sum: 
+Infopage: https://linuxcontainers.org
+Description: LXC default image for anbox
+
+Package: winebox
+Version: 20200823
+Type: lxc
+OS: debian
+Section: desktop
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: lxcwinebox.tar.xz
+md5sum: 
+sha512sum: 
+Infopage: https://linuxcontainers.org
+Description: LXC default image for winebox
+
+Package: cloudrevebox
+Version: 20200823
+Type: lxc
+OS: debian
+Section: cloud
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: lxccloudrevebox.tar.xz
+md5sum: 
+sha512sum: 
+Infopage: https://linuxcontainers.org
+Description: LXC default image for cloudrevebox
+
+Package: codeserverbox
+Version: 20200823
+Type: lxc
+OS: debian
+Section: development
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: lxccodeserverbox.tar.xz
+md5sum: 
+sha512sum: 
+Infopage: https://linuxcontainers.org
+Description: LXC default image for codeserverbox
